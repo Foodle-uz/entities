@@ -1,0 +1,6 @@
+{
+    "product": "Product",
+    "amount": "int", 
+    "measurement": "measurement",
+    "price": "int"
+}

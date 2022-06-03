@@ -1,0 +1,11 @@
+{
+    "id": "UID",
+    "full_name": "String",
+    "username": "String",
+    "profile_photo": "Object",
+    "publications": "List of Publications",
+    "recipes": "List of Recipes",
+    "followers": "List of users",
+    "following": "List of users",
+    "order_history": "List of orders"
+}

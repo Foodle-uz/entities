@@ -1,0 +1,3 @@
+{
+    "status": ["processing", "delivering", "delivered", "rejected", "cancelled"]
+}

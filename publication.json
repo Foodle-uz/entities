@@ -1,0 +1,10 @@
+{
+    "id": "UID",
+    "author": "user",
+    "recipe": "recipe",
+    "media": "List of photos and videos",
+    "description": "String",
+    "date_time": "Publication date",
+    "yummies": "List of user id",
+    "is_hidden": "true"
+}

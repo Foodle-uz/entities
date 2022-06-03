@@ -1,0 +1,8 @@
+{
+    "id": "UID",
+    "customer": "user",
+    "ingredients": "List of ingredients",
+    "price": "Price",
+    "time": "Date time",
+    "status": "Status"
+}

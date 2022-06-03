@@ -1,0 +1,16 @@
+{
+    "id": "UID",
+    "steps": "Ordered list of steps",
+    "difficulty": "int [1,5]",
+    "duration:": "seconds",
+    "rating": "int [1,5]",
+    "author": "user",
+    "tags": "List of tags",
+    "warning": "List of warnings",
+    "cousine": "Cousine",
+    "publications": "List of publications",
+    "calories": "int",
+    "ingredients": "List of ingredients",
+    "recipe_price": "int",
+    "ingredient_price": "int"
+}
